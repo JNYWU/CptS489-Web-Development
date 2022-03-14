@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ia5-jnywu/static/css/main.1d9770d5.chunk.css",
+    "main.js": "/ia5-jnywu/static/js/main.8e471b44.chunk.js",
+    "main.js.map": "/ia5-jnywu/static/js/main.8e471b44.chunk.js.map",
+    "runtime-main.js": "/ia5-jnywu/static/js/runtime-main.2359d4a5.js",
+    "runtime-main.js.map": "/ia5-jnywu/static/js/runtime-main.2359d4a5.js.map",
+    "static/css/2.50d382e5.chunk.css": "/ia5-jnywu/static/css/2.50d382e5.chunk.css",
+    "static/js/2.0349daef.chunk.js": "/ia5-jnywu/static/js/2.0349daef.chunk.js",
+    "static/js/2.0349daef.chunk.js.map": "/ia5-jnywu/static/js/2.0349daef.chunk.js.map",
+    "index.html": "/ia5-jnywu/index.html",
+    "precache-manifest.a62bef0048c780128c1e68bc88be05e9.js": "/ia5-jnywu/precache-manifest.a62bef0048c780128c1e68bc88be05e9.js",
+    "service-worker.js": "/ia5-jnywu/service-worker.js",
+    "static/css/2.50d382e5.chunk.css.map": "/ia5-jnywu/static/css/2.50d382e5.chunk.css.map",
+    "static/css/main.1d9770d5.chunk.css.map": "/ia5-jnywu/static/css/main.1d9770d5.chunk.css.map",
+    "static/js/2.0349daef.chunk.js.LICENSE.txt": "/ia5-jnywu/static/js/2.0349daef.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/ia5-jnywu/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2359d4a5.js",
+    "static/css/2.50d382e5.chunk.css",
+    "static/js/2.0349daef.chunk.js",
+    "static/css/main.1d9770d5.chunk.css",
+    "static/js/main.8e471b44.chunk.js"
+  ]
+}
